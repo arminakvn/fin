@@ -39,3 +39,7 @@ and run the server:
 
 npm start
 ```
+
+
+this will serve the app to http://localhost:8080/
+
